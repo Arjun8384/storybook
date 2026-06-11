@@ -1,0 +1,34 @@
+.product-card {
+  width: 250px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: var(--card-bg);
+  color: var(--text-color);
+}
+
+.product-image {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.stock {
+  display: inline-block;
+  margin-top: 8px;
+  font-weight: 600;
+}
+
+.available {
+  color: green;
+}
+
+.unavailable {
+  color: red;
+}
