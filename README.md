@@ -2,7 +2,7 @@
 
 A component-driven UI library built using Storybook and Next.js, demonstrating isolated component development, interactive documentation, theme management, and reusable design system architecture.
 
-## project live link: 
+## project live link: https://storybookdesigns.vercel.app/
 
 ## snapshots
 ![alt text](ss1.png)
